@@ -1,0 +1,42 @@
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.exe
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.deps.json
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.runtimeconfig.json
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.dll
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.pdb
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.AssemblyInfoInputs.cache
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.AssemblyInfo.cs
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.csproj.CoreCompileInputs.cache
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.dll
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\refint\SERVIDORHTTPSIMPLES.dll
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.pdb
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.genruntimeconfig.cache
+C:\Users\Agata Farias\Desktop\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\ref\SERVIDORHTTPSIMPLES.dll
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.exe
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.deps.json
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.runtimeconfig.json
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.dll
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.pdb
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.AssemblyInfoInputs.cache
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.AssemblyInfo.cs
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.csproj.CoreCompileInputs.cache
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.dll
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\refint\SERVIDORHTTPSIMPLES.dll
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.pdb
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.genruntimeconfig.cache
+C:\Users\agata\OneDrive\backup\Projetos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\ref\SERVIDORHTTPSIMPLES.dll
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.exe
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.deps.json
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.runtimeconfig.json
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.dll
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\bin\Debug\net7.0\SERVIDORHTTPSIMPLES.pdb
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.AssemblyInfoInputs.cache
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.AssemblyInfo.cs
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.csproj.CoreCompileInputs.cache
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.dll
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\refint\SERVIDORHTTPSIMPLES.dll
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.pdb
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\SERVIDORHTTPSIMPLES.genruntimeconfig.cache
+C:\Users\agata\source\repos\SERVIDORHTTPSIMPLES\obj\Debug\net7.0\ref\SERVIDORHTTPSIMPLES.dll
