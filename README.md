@@ -24,6 +24,8 @@ Este projeto consiste em um servidor HTTP simples desenvolvido em C# que permite
 ## Requisitos
 
 Para executar este servidor, é necessário ter o ambiente do .NET Framework configurado na sua máquina. Certifique-se de ter o SDK do .NET instalado para compilar e executar o código.
+## Autor
+Agata Domingues Farias
 
 ## Observações
 
